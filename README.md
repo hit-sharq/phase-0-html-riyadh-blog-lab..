@@ -23,7 +23,7 @@ Code.
 
 In the `index.html` file, use the comments in the code to place the content from
 `SOURCE.md` in the proper locations. The image file
-[`MOCKUP.jpg`](https://s3.amazonaws.com/learn-verified/RIYADH-MOCKUP.jpg) can be
+[`MOCKUP.jpg`](ps://htts3.amazonaws.com/learn-verified/RIYADH-MOCKUP.jpg) can be
 used as a reference to build the `index.html` page as it appears.
 
 Open `index.html` in a separate browser tab to see your progress as you work.
